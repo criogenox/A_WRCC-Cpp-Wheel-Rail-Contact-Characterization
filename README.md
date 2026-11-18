@@ -68,10 +68,14 @@ Now featuring a complete **Qt6 GUI** for contact analysis with interactive visua
 * Tested on Ubuntu 24.04 LTS & MS Windows 11.
 * Standard template library features up to C++23.
 * Modern **Qt6 GUI** integration powered by a [custom Qt Charts library][custom_charts-url] with interactive tracking, zooming and panning view capabilities.
-* Added benchmark calculation comparing results against EN 15302 reference cases (E1 to E9). [BSI Store](https://knowledge.bsigroup.com/products/railway-applications-wheel-rail-contact-geometry-parameters-definitions-and-methods-for-evaluation)
+* Added benchmark calculation comparing results against EN 15302 [[1](#ref-1)] reference cases (E1 to E9). 
 * Automated Technical Report generation exporting formatted [HTML reports](docs/outputs) and [high-resolution chart images](docs/outputs/figures).
 * Heavy use of smart pointers for the sake of design simplicity and robust memory management.
 * Improved mathematical curves definition using monotone cubic Hermite interpolator with PCHIP (Fritsch–Carlson) slope construction.
+
+## References & Bibliography
+
+1. <a id="ref-1"></a>**BS EN 15302:2021** *Railway applications. Wheel-rail contact geometry parameters. Definitions and methods for evaluation*. [BSI Store](https://knowledge.bsigroup.com/products/railway-applications-wheel-rail-contact-geometry-parameters-definitions-and-methods-for-evaluation)
 
 <!-- LICENSE -->
 
