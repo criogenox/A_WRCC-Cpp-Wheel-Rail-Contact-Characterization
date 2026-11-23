@@ -12,7 +12,7 @@
   </p>
 </div>
 
-## About the project
+## About the project (UPDATE IN PROGRESS...)
 
 <div align="justify">
   <p>
