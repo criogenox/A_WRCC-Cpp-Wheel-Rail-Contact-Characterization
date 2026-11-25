@@ -4,7 +4,7 @@
 
 <div align="center">
   <a align="center">
-    <img src="docs/repo_figs/repo_logo.png" alt="Logo" width="500">
+    <img src="docs/repo_figs/repo_logo_new.png" alt="Logo" width="500">
   </a>
   <h3 align="center">Railway applications &#x300A; A &#x300B;</h3>
   <p align="center">
