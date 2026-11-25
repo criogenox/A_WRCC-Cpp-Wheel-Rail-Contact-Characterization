@@ -73,6 +73,15 @@ Now featuring a complete **Qt6 GUI** for contact analysis with interactive visua
 * Heavy use of smart pointers for the sake of design simplicity and robust memory management.
 * Improved mathematical curves definition using monotone cubic Hermite interpolator with PCHIP (Fritsch–Carlson) slope construction.
 
+## Roadmap
+
+- [x] Complete code porting using modular architecture
+- [x] EN Standard E1-9 cases validation
+- [ ] Proper implementation of track gauge, back-to-back distance and rail inclination
+- [ ] Expand profile database (Europe/UK, USA, Australia, Russia, Argentina, Japan)
+- [ ] Test real worn cases & worn-like designs
+- [ ] Validation against Gensys Software and literature
+
 ## References & Bibliography
 
 1. <a id="ref-1"></a>**BS EN 15302:2021** *Railway applications. Wheel-rail contact geometry parameters. Definitions and methods for evaluation*. [BSI Store](https://knowledge.bsigroup.com/products/railway-applications-wheel-rail-contact-geometry-parameters-definitions-and-methods-for-evaluation)
